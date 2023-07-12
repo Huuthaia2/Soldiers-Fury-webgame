@@ -1549,13 +1549,13 @@ var adxAds2 = false;
 						resumeGame: function() {},
 						pauseGame: function() {},
 						onEvent: function(e) {},
-						onInit: function(e) {},
+						// onInit: function(e) {},
 						onError: function(e) {}
 					};
 					this[_0xc012[326]] = _0x37a3x4 ? (0, _0x37a3xf[_0xc012[327]])(_0x37a3x6, _0x37a3x4) : _0x37a3x6;
 					var _0x37a3x8 = _0x37a3xa[_0xc012[168]][_0xc012[83]];
-					window[_0xc012[563]][_0xc012[315]][_0xc012[78]](console, _0xc012[562][_0xc012[162]](_0xc012[190]));
-					console[_0xc012[315]](_0xc012[564], _0xc012[565], _0xc012[565], _0xc012[566], _0xc012[565], _0xc012[565], _0xc012[567]);
+					// window[_0xc012[563]][_0xc012[315]][_0xc012[78]](console, _0xc012[562][_0xc012[162]](_0xc012[190]));
+					// console[_0xc012[315]](_0xc012[564], _0xc012[565], _0xc012[565], _0xc012[566], _0xc012[565], _0xc012[565], _0xc012[567]);
 					var _0x37a3xd = (0, _0x37a3xf[_0xc012[341]])(),
 						_0x37a3x11 = (0, _0x37a3xf[_0xc012[339]])(),
 						_0x37a3x12 = document[_0xc012[345]][_0xc012[344]][_0xc012[150]](_0xc012[568]) >= 0 || document[_0xc012[347]][_0xc012[150]](_0xc012[569]) >= 0;
