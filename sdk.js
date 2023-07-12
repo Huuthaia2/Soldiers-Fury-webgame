@@ -1538,7 +1538,7 @@ var adxAds2 = false;
 					_0x37a3x10 = this;
 					var _0x37a3x6 = {
 						debug: !1,
-						testing: !1,
+						testing: !0,
 						gameId: _0xc012[34],
 						prefix: _0xc012[329],
 						flashSettings: {
